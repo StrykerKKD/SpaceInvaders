@@ -18,3 +18,5 @@ which can be viewed with indexOpt.html. This use the "compiled" code, which can 
 Known issue: In every new play state(after the end state) the game makes new DOM nodes.
 The cause: in every cycle i make a new text to show the score.
 I tried to destroy the texts but i never succeed.
+
+You can play with it here: http://strykerkkd.github.io/SpaceInvaders/
